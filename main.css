@@ -1435,7 +1435,7 @@ nav a:hover{
     top: -46vw;
     align-items: center;
     text-align: center;
-    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.836));
+    background: transparent;
 }
 
 .explore-hr{
